@@ -1,10 +1,10 @@
 ![](https://hit.yhype.me/github/profile?user_id=73717039)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey 
-<p>Hello </br> I'm Ayham Melhem a backend developer in <b>Amman, Jordan</b>.
+<h3>Hello</h3> I'm Ayham Melhem a backend developer in <b>Amman, Jordan</b>.
 </p>
 
-<h3>And these are the languages I code with/h3>
+<h3>And these are the languages I code with : </h3>
 <p>
     <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />

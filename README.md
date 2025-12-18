@@ -22,4 +22,4 @@
     <a href="https://discord.com/users/787956837403197510" target="_blank">
         <img alt="Discord" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-<h3>Bye/h3>
+<h3>Bye</h3>

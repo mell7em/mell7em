@@ -1,7 +1,7 @@
 ![](https://hit.yhype.me/github/profile?user_id=73717039)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey 
-<h3>Hello</h3> I'm Ayham Melhem a backend developer in <b>Amman, Jordan</b>.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hello 
+ I'm Ayham Melhem a backend developer in <b>Amman, Jordan</b>.
 </p>
 
 <h3>And these are the languages I code with : </h3>
